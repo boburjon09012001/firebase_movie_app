@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044018549986",
+    "project_id": "fir-simple-d851a",
+    "storage_bucket": "fir-simple-d851a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044018549986:android:93a99ff447a1b18b4f3abb",
+        "android_client_info": {
+          "package_name": "uz.boburjon.firebase_simple_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044018549986-162hdqqsiovvvejc4kc0cun5o9hgfp8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRD9V15xQdPKUSl5ydbzgwR7ENFi6DU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044018549986-162hdqqsiovvvejc4kc0cun5o9hgfp8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
